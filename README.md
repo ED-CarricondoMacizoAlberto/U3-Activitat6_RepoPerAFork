@@ -84,7 +84,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila3 PC4:
 
 
-#### AlumneFila3 PC5: Alberto ha añadido en el método especificado para su asiento y fila un mensaje de feliz navidad y que haya salud para el 2023.
+#### AlumneFila3 PC5: 
 
 
 #### AlumneFila3 PC6:
